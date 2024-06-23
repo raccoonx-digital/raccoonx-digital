@@ -27,3 +27,7 @@ For any inquiries, please contact us at:
 
 - Email: support@raccoonxdigital.com
 -->
+
+## Copyright
+
+© 2024 RaccoonX Digital. All rights reserved.
