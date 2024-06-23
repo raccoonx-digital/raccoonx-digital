@@ -44,7 +44,11 @@ Features:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This software is the proprietary property of RaccoonX Digital. All rights reserved. For terms and conditions, please refer to the [LICENSE](LICENSE.md) file.
+
+## Copyright
+
+© 2024 RaccoonX Digital. All rights reserved.
 
 ---
 
